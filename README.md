@@ -3,10 +3,10 @@
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
-# Hello world, I'm Isadora <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="100">
+# Hello world, I am Isadora <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="100">
 
 - 👩‍🎓 I'm a last year undergraduate in Computer Engineering from <a href="https://www.ua.pt/"> <b>Universidade de Aveiro</b>, Portugal</a>
-- 👩‍💻 I'm looking for a trainee program in osftware development
+- 👩‍💻 I'm looking for a trainee program in software development
 - 🇧🇷 I’m from brazil
 - ♍ I’m a virgo
 - 🛹 Fun fact: I'm very bad at skateboarding, but I do it anyway
