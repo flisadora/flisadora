@@ -22,29 +22,29 @@
 ## Here are some projects that I have worked on at university   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 ### Operating Systems
-- [Project 1](/User_stats)
-- [Project 2](/semaphore_smokers)
+- [Project 1](https://github.com/flisadora/User_stats)
+- [Project 2](https://github.com/flisadora/semaphore_smokers)
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 ### Algorithms and Data Structures
-- [Project 1](/Path_costs)
-- [Project 2](/Words_occurrences)
+- [Project 1](https://github.com/flisadora/Path_costs)
+- [Project 2](https://github.com/flisadora/Words_occurrences)
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-### [Analysis and Modelling of Systems](/MAS-aeeb) 
+### [Analysis and Modelling of Systems](https://github.com/flisadora/MAS-aeeb) 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-### [Probability Methods for Informatics Engineering](/Criminal_catalog)
+### [Probability Methods for Informatics Engineering](https://github.com/flisadora/Criminal_catalog)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-### [Human-computer Interaction](/IHC-AEEB)
+### [Human-computer Interaction](https://github.com/flisadora/IHC-AEEB)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-### [Artificial Intelligence](/trabalho-de-grupo-sokoban)
+### [Artificial Intelligence](https://github.com/flisadora/trabalho-de-grupo-sokoban)
 <img src="https://img.shields.io/badge/Python-0C5D90?style=for-the-badge&logo=python&logoColor=white">
 
-### [Databases](/World_Athletics_BD)
+### [Databases](https://github.com/flisadora/World_Athletics_BD)
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
-### [Introduction to Software Engineering](/IES_Project_G31)
+### [Introduction to Software Engineering](https://github.com/flisadora/IES_Project_G31)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blacke"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
