@@ -40,6 +40,9 @@
 ### [Human-computer Interaction](/IHC-AEEB)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
+### [Artificial Intelligence](/trabalho-de-grupo-sokoban)
+<img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white">
+
 ### [Databases](/World_Athletics_BD)
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
